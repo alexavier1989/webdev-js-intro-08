@@ -37,13 +37,13 @@ To view the project locally, you can either open the project files in your code 
 
 #### Part 2
 
-- [ ] Navigate to the Assignment Page
-- [ ] Read the assignment overview and output section.
-- [ ] In `assignment.js`:
-    - [ ] Create a function called `findSmallestNumber`. This function should take in the array, `myNumbers`. Loop through the array and return the smallest number.
-    - [ ] Create a function called `findLargestNumber`. This function should take in the array, `myNumbers`. Loop through the array and return the largest number.
-    - [ ] Create a function called `findAverage`. This function should take in the array, `myNumbers`. Loop through the array and return the average.
-    - [ ] Create the remaining functionality to render your answers.
+- [x] Navigate to the Assignment Page
+- [x] Read the assignment overview and output section.
+- [x] In `assignment.js`:
+    - [x] Create a function called `findSmallestNumber`. This function should take in the array, `myNumbers`. Loop through the array and return the smallest number.
+    - [x] Create a function called `findLargestNumber`. This function should take in the array, `myNumbers`. Loop through the array and return the largest number.
+    - [x] Create a function called `findAverage`. This function should take in the array, `myNumbers`. Loop through the array and return the average.
+    - [x] Create the remaining functionality to render your answers.
 
 
 ### Tips
